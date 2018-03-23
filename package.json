@@ -1,0 +1,29 @@
+{
+  "name": "@username/simple-slider",
+  "version": "1.0.0",
+  "description": "A very simple configurable image slider",
+  "main": "dist/slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendrasingh715/simple-slider.git"
+  },
+  "keywords": [
+    "Simple",
+    "Image",
+    "Slider",
+    "JavaScript",
+    "jQuery"
+  ],
+  "author": "Dharmendra Singh <dharmendrasingh715@gmail.com> (http://dharmendrasingh715.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmendrasingh715/simple-slider/issues"
+  },
+  "homepage": "https://github.com/dharmendrasingh715/simple-slider#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
