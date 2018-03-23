@@ -1,0 +1,26 @@
+{
+  "name": "@username/simple-slider",
+  "version": "1.0.0",
+  "description": "A simple image slider from existing images on dom",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendrasingh715/simple-slider.git"
+  },
+  "keywords": [
+    "javascript",
+    "image-slider"
+  ],
+  "author": "Dharmendra Singh Sikarwar <dharmendrasingh715@gmail.com> (dharmendrasingh715.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmendrasingh715/simple-slider/issues"
+  },
+  "homepage": "https://github.com/dharmendrasingh715/simple-slider#readme",
+  "engines": {
+    "node": ">=6.2.4"
+  },
+  "main": "index.js"
+}
